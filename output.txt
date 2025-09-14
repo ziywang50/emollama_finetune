@@ -1,0 +1,37 @@
+Training samples: 12845
+Evaluation samples: 3212
+trainable params: 16,777,216 || all params: 6,755,192,832 || trainable%: 0.24836028248556738
+Resuming training from checkpoint: ./emollama-mental-health-finetuned/checkpoint-2400
+{'train_runtime': 35.6177, 'train_samples_per_second': 1081.907, 'train_steps_per_second': 67.635, 'train_loss': 0.0023348134501240667, 'epoch': 3.0}
+
+Saving final model to emollama-mental-health-lora_20250914_230455
+
+Running evaluation...
+
+Evaluation Results:
+Perplexity: 1.88
+Eval Loss: 0.6333
+
+Generating sample predictions...
+
+Sample Predictions:
+
+Example 1:
+Input: I agree. I've learned to cope with these feelings better than I used to. I used to completely shut d...
+Generated: It sounds like you have made significant progress since our last session. Your ability to recognize ...
+Actual: I see. It sounds like you've had a lot of experience with loss and the fear of the unknown. Your fam...
+--------------------------------------------------------------------------------
+
+Example 2:
+Input: I've been struggling with anxiety for quite some time now, and I hope that through counseling sessio...
+Generated: It sounds like you have been experiencing significant challenges due to your anxiety, and it is comm...
+Actual: It's great that you're seeking counseling to help with your anxiety. Counseling can be a valuable to...
+--------------------------------------------------------------------------------
+
+Example 3:
+Input: When it comes to intimacy, I struggle with setting boundaries. I often find myself sacrificing my ow...
+Generated: Setting boundaries is an important aspect of maintaining healthy relationships. It can be challengin...
+Actual: I can understand how challenging it must be for you to struggle with setting boundaries in your inti...
+--------------------------------------------------------------------------------
+
+Evaluation complete. Results saved to evaluation_results.txt

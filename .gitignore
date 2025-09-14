@@ -1,0 +1,28 @@
+# Model files (too large for GitHub)
+*.bin
+*.safetensors
+*.pt
+*.pth
+checkpoint-*/
+emollama-mental-health-*/
+
+# Data files (may contain sensitive info)
+*.csv
+data/raw/
+data/processed/
+
+# Python
+__pycache__/
+*.pyc
+.env
+venv/
+*.egg-info/
+
+# Logs
+*.log
+wandb/
+runs/
+
+# OS
+.DS_Store
+Thumbs.db
