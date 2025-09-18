@@ -18,7 +18,7 @@ DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
 
 # Load instruction from training data (if available)
 try:
-    data = pd.read_csv("Interview_Data_6K.csv", nrows=1)
+    data = pd.read_csv("Synthetic_Data_10K.csv", nrows=1)
     INSTRUCTION = data['instruction'].iloc[0]
 except:
     INSTRUCTION = "You are a helpful mental health counselling assistant, please answer the mental health questions based on the patient's description."
@@ -37,8 +37,7 @@ tokenizer.pad_token = tokenizer.eos_token
 base_model = AutoModelForCausalLM.from_pretrained(
     BASE_MODEL,
     torch_dtype=torch.float16,
-    device_map="auto"
-)
+).to(DEVICE)
 
 # Load LoRA weights
 model = PeftModel.from_pretrained(base_model, MODEL_PATH)
@@ -52,7 +51,7 @@ def generate_response(input_text, max_new_tokens=300, temperature=0.7, top_p=0.9
     prompt = f"{INSTRUCTION}\n\nUser: {input_text}\nAssistant:"
     
     # Tokenize
-    inputs = tokenizer(prompt, return_tensors="pt", truncation=True).to(model.device)
+    inputs = tokenizer(prompt, return_tensors="pt", truncation=True).to(DEVICE)
     prompt_length = inputs["input_ids"].shape[1]
     
     # Generate
@@ -191,7 +190,7 @@ for i, edge_input in enumerate(edge_cases, 1):
     print(f"User: {edge_input}")
     print(f"\nAssistant: ", end="", flush=True)
     
-    response = generate_response(edge_input, max_new_tokens=200)
+    response = generate_response(edge_input, max_new_tokens=300)
     print(response)
     
     results.append({
@@ -257,3 +256,32 @@ else:
 print(f"\n{'='*80}")
 print("Testing complete!")
 print(f"{'='*80}")
+
+# Load ONLY the base model (no LoRA)
+print("Loading original Emollama-7b for comparison...")
+original_model = AutoModelForCausalLM.from_pretrained(
+    "lzw1008/Emollama-7b",
+    torch_dtype=torch.float16,
+).to(DEVICE)
+
+# Test with same prompts
+test_prompts = [
+    "What's 2+2?",
+    "Tell me a joke",
+    "I'm feeling anxious about my job interview"
+]
+
+for prompt in test_prompts:
+    print(f"\n{'='*50}")
+    print(f"Prompt: {prompt}")
+    
+    # Original model response
+    inputs = tokenizer(f"User: {prompt}\nAssistant:", return_tensors="pt").to(DEVICE)
+    original_output = original_model.generate(**inputs, max_new_tokens=300)
+    original_response = tokenizer.decode(original_output[0], skip_special_tokens=True)
+    
+    # Your fine-tuned response  
+    finetuned_response = generate_response(prompt)
+    
+    print(f"\nOriginal: {original_response}")
+    print(f"\nFinetuned: {finetuned_response}")

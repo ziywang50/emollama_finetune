@@ -11,3 +11,4 @@ pandas==2.3.2
 peft==0.7.1
 evaluate==0.4.1
 datasets==2.16.1
+python-dotenv==1.0.0

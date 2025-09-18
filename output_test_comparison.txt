@@ -1,0 +1,453 @@
+Using device: cuda
+Model path: emollama-mental-health-lora_latest
+Base model: lzw1008/Emollama-7b
+--------------------------------------------------------------------------------
+Loading model and tokenizer...
+Model loaded successfully!
+--------------------------------------------------------------------------------
+
+================================================================================
+COMPREHENSIVE MODEL TESTING
+================================================================================
+
+
+================================================================================
+CATEGORY: Anxiety
+================================================================================
+
+--------------------------------------------------------------------------------
+Test 1:
+User: I've been feeling very anxious about my upcoming job interview. My heart races and I can't sleep.
+
+Assistant: It sounds like you have some valid concerns leading up to your job interview! Anxiety is completely normal in these situations, but there are steps you can take to manage it effectively. Here are a few suggestions that might help:
+
+1. Prepare thoroughly for the interview by researching the company, practicing common interview questions, and gathering any relevant documents or materials needed. This will give you a sense of confidence going into the actual event.
+
+2. Take deep breaths beforehand if your anxiety starts to intensify. Focus on slow, even breaths as they activate your body’s relaxation response. Deep breathing exercises may also be beneficial when trying to calm down during the interview itself.
+3. Consider engaging in activities outside work-related stressors, such as exercise, hobbies, spending time with loved ones, or pursuing personal interests. Taking care of yourself holistically can contribute positively towards managing overall stress levels.
+4. If possible, try visualizing success scenarios ahead of time. Imagine yourself confidently answering all interview questions while maintaining composure throughout the process. Visualization techniques can instill feelings of competence and self-assurance prior to walking through those doors.
+5. Don’t underestimate the power of positive affirmations either - remind yourself how qualified and prepared you truly are for this opportunity. Repeat phrases like
+
+--------------------------------------------------------------------------------
+Test 2:
+User: I'm experiencing panic attacks when I'm in crowded places. What should I do?
+
+Assistant: When you experience panic attack symptoms such as rapid heartbeat or shortness of breath while being in crowds, it can be challenging and overwhelming. Here are some suggestions that may help manage these situations better:
+1. Take slow deep breaths: Deep breathing exercises can help calm your nervous system during moments of anxiety. Focus on taking long, deep breathes through your nose and exhaling slowly through your mouth. This technique can provide immediate relief from physical sensations associated with panic episodes.
+2. Challenge negative thoughts: Panic attacks often arise due to catastrophizing thoughts about potential outcomes. Try questioning any irrational or unrealistic thinking patterns related to public spaces. Remind yourself that most people behave well in social settings, and there is no real threat present. Replace anxious thoughts with more balanced ones by focusing on positive experiences rather than fear-based predictions.
+3. Gradual exposure therapy: Consider gradually facing feared environments at your own pace. Start small by visiting less populated areas first before moving towards larger gatherings. As you become comfortable navigating smaller groups, continue progressively until reaching crowded locations without feeling overwhemled. Remember to celebrate each step forward!
+4. Distract yourself effectively: Engaging distractions like listening to music, reading books, or watching movies might divert attention away from triggers for panic
+
+--------------------------------------------------------------------------------
+Test 3:
+User: My anxiety is affecting my daily life. I can't concentrate on work anymore.
+
+Assistant: It sounds like your anxiety has been impacting various aspects of your life lately, including at work. This can be incredibly challenging and frustrating for you. Here are some suggestions that might help alleviate these difficulties:
+
+1. Prioritize self-care: Make sure you take time each day to engage in activities or hobbies that bring you joy and relaxation. This could include exercising regularly, practicing mindfulness or meditation techniques, spending quality time with loved ones, or simply enjoying nature. Taking care of yourself physically, mentally, and emotionally will contribute positively towards managing your overall well-being.
+
+2. Establish boundaries: Consider setting clear boundaries between work and personal life. Create designated times during which you disconnect from work emails, calls, etc., allowing yourself dedicated space to focus solely on restoring balance outside of working hours. By doing so, you may find it easier to shift gears when returning back into productive mode later on.
+  3. Break tasks down: If concentration seems particularly difficult right now due to anxious thoughts creeping up, break large projects down into smaller, more manageable steps. Focus on one step at a time without overwhelming yourself unnecessarily. Small achievements throughout the day can provide motivation as well as a sense of accomplishment.
+    4. Practice deep breathing
+
+
+================================================================================
+CATEGORY: Depression
+================================================================================
+
+--------------------------------------------------------------------------------
+Test 1:
+User: I've been feeling hopeless and empty for weeks. Nothing brings me joy anymore.
+
+Assistant: It can be incredibly challenging when you feel like your emotions have become dull or that nothing seems able to bring you any joy. Feeling this way is not uncommon during difficult times in life; it may even be more prevalent due to external factors such as stressful events, relationship issues, or personal struggles. While there isn't an easy solution, reaching out for support from loved ones could provide some relief. Additionally, engaging with activities that used to make you happy might help reignite those feelings of joy again over time. Taking small steps towards reconnecting with things that once brought you happiness might gradually improve your overall mood and well-being. Remember, everyone experiences these kinds of low moments at different points throughout their lives, so don’t hesitate to seek guidance if needed. Keep pushing forward one step at a time – progress takes patience but ultimately leads us back into our own light.
+
+You also mentioned that these negative emotions were present for several weeks now - sometimes longer periods of consistent sadness indicate depression rather than just temporary despair caused by specific circumstances. If what you described continues without improvement despite making efforts to find enjoyment again, consider seeking professional assistance from a therapist who specializes in mental health disorders. They will work collaboratively with you while providing effective tools and strategies tailored specifically for your needs. Don't hesitant to reach out for further advice should anything
+
+--------------------------------------------------------------------------------
+Test 2:
+User: I don't have the energy to get out of bed most days. Is this depression?
+
+Assistant: It can be difficult when you feel like you lack the motivation or energy to do simple daily tasks such as getting up from bed in the morning. Feeling low on energy is often one symptom associated with depression, so it could indeed be an indicator that something may not be right mentally for you at present. If these feelings persist over time without any significant improvement, it might be worth considering reaching out to someone who specializes in understanding and treating mood disorders. They would provide guidance tailored specifically to your situation while also offering support during times where you struggle with finding the willpower needed to take action. Additionally, self-care practices can play a role in improving overall wellbeing - engaging in activities that bring joy into our lives and practicing mindfulness techniques can make a positive impact even if they initially seem challenging due to limited energy levels. Remember to reach out to trusted friends or family members whom you know understand what you're going through; talking about how you truly feel helps release some pressure and allows them to lend their care and compassion along the way. Ultimately, seeking professional help should always remain an option whenever possible – sometimes all we need is someone else’s perspective combined with effective coping strategies offered by therapists trained within this field.
+
+Remember, everyone has different experiences regarding depressive episodes, but recognizing certain signs early on increases chances of receiving treatment before things w
+
+--------------------------------------------------------------------------------
+Test 3:
+User: I've lost interest in all my hobbies and don't want to see friends anymore.
+
+Assistant: It can be challenging when you start feeling disinterested in activities that used to bring joy or connect with others. Here are some suggestions for addressing this situation:
+1. Take time to reflect: Give yourself permission to pause and explore your feelings without judgment. Ask yourself why these changes have occurred and what might be contributing factors. This self-reflection will help guide future steps.
+2. Reach out for support: While it may feel overwhelming at first, consider reaching out to someone who cares about you and is willing to listen nonjudgmentally. They could offer perspective or simply provide emotional validation during difficult times.
+3. Engage in new experiences: Trying something different might reignite your enthusiasm for previously enjoyed hobbys or social interactions. Consider engaging in small acts of kindness towards others as well - helping them might make you appreciate their presence more.
+4. Focus on physical activity: Exercise has been shown to positively impact mood and increase energy levels. Find an enjoyable form of exercise such as walking, dancing, yoga, or swimming that resonates with you personally. Regular movement helps improve overall wellbeing too!
+5. Set realistic goals: Start by setting attainable objectives related to hobbymaking resumption or friendships rekindling efforts. Small achievements along those paths will boost confidence gradually, which further increases motivation.
+
+
+================================================================================
+CATEGORY: Relationship Issues
+================================================================================
+
+--------------------------------------------------------------------------------
+Test 1:
+User: My partner and I keep having the same arguments. How can we communicate better?
+
+Assistant: One way you could improve your communication with your partner is by actively listening to each other during conversations. This means giving them your full attention without interrupting or trying to respond while they speak. Encourage open-ended questions that allow for deeper understanding rather than yes/no responses. Reflect back what you heard from their perspective so they know you understand their point of view as well. Additionally, try not to jump straight into problem solving but instead focus more on empathy building exercises where both partners express how they feel about certain situations. By creating an environment where feelings can be expressed freely, it may help diffuse tension in future conflicts.
+
+Another suggestion would be to practice active validation when disagreements arise. Validation involves acknowledging the emotions behind someone else's statements without necessarily agreeing with those sentiments. For example, if your partner brings up something upsetting, instead of immediately dismissing or defending yourself, consider validating their experience first before offering any counterpoints. Doing this helps build trust between two people because it shows respect towards one another’s thoughts and emotions.
+ 
+In addition, finding common ground through shared interests or activities outside of conflict discussions might also enhance overall connection within relationships. Engaging in hobbies together allows couples to reconnect away from stressors present at home and create new memories which foster stronger bonds over time. ​
+
+Rem
+
+--------------------------------------------------------------------------------
+Test 2:
+User: I'm struggling with trust issues after being betrayed in my last relationship.
+
+Assistant: It can be incredibly challenging when you experience betrayal in your previous relationship, as it impacts not only our emotions but also our ability to trust others moving forward. Building trust takes time and effort from both parties involved. Here are some suggestions that might help you navigate through these difficulties:
+
+1. Reflect on Your Experience: Take some time alone or with someone supportive to reflect upon what happened during your past relationship. Understanding how this event has affected you is an important step towards healing and regaining confidence.
+
+2. Set Boundaries: Establish clear boundaries for yourself regarding who you allow into your life and at what level of intimacy. This will empower you by giving you control over your interactions and ensure your safety while allowing space for new relationships without feeling pressured.
+  3. Communicate Openly: Be open about any concerns or fears you have within new relationships. Expressing them early on helps build understanding between partners and reduces misunderstandings down the line. Remember, honesty leads to stronger connections.
+    4. Surround Yourself With Supportive People: Seek out friends, family members, or even online communities where you feel safe discussing personal matters. Having people around us who offer empathy and encouragement makes navigating difficult situations easier.
+      5. Practice Self-Care: Prioritize taking care of yourself physically, mentally, and
+
+--------------------------------------------------------------------------------
+Test 3:
+User: I feel lonely even when I'm with my family. What's wrong with me?
+
+Assistant: It can be challenging to experience loneliness despite being surrounded by loved ones. It might suggest that there could be some underlying factors contributing to this feeling of isolation. Here are a few suggestions for addressing it:
+1. Reflect on your relationships: Take some time to evaluate how you communicate and connect with your family members. Are there any areas where improvement is needed? Building better communication skills or expressing your needs more clearly may help foster stronger bonds within your family dynamic.
+2. Consider seeking support from others outside your immediate circle: Explore joining social groups or clubs related to interests or hobbies that align with yours. Engaging in activities that bring fulfillment and provide opportunities for meaningful connections with people who share similar passions can alleviate feelings of lonelieness.
+3. Prioritize self-care: Taking care of yourself physically, emotionally, and mentally plays an essential role in overall wellbeing. Make sure to incorporate regular exercise into your routine, eat nutritious foods, practice relaxation techniques such as deep breathing exercises or meditation, and engage in activities you enjoy solely for personal pleasure. These efforts will positively impact both your mood and sense of belongingness.
+4. Seek professional guidance if necessary: Sometimes, deeper emotional issues arise that require specialized assistance. If these persistent feelings persist despite trying out suggested
+
+
+================================================================================
+CATEGORY: Stress Management
+================================================================================
+
+--------------------------------------------------------------------------------
+Test 1:
+User: Work stress is overwhelming me. I'm working 60 hours a week and feel burned out.
+
+Assistant: It can be incredibly challenging when work starts to take up so much of your time and energy. The fact that you're feeling burnt out shows how important it is for us to address this issue together. Here are some suggestions to help manage work-related stress:
+1. Prioritize self-care: Make sure to prioritize activities outside of work that nourish both your mind and body. This could include exercise, spending quality time with loved ones, hobbies or interests, getting enough sleep, and eating well. Taking care of yourself will provide a much-needed respite from the demands at work.
+2. Set boundaries: Establish clear boundaries between work and personal life. Try not to bring work home unnecessarily by setting specific times during which you focus solely on work tasks. Creating space for relaxation and leisure in your schedule allows room for recharging.
+3. Communicate openly: If possible, talk openly with your supervisor about any concerns regarding excessive workload or expectations placed upon you. They may have insight into potential solutions such as delegating certain responsibilities or offering flexible schedules if feasible. Remember, being proactive in discussions often leads to positive results.
+4. Seek support systems: Consider reaching out to trustworthy friends, family members, colleagues, or mentors who can offer empathetic listening ears when needed
+
+--------------------------------------------------------------------------------
+Test 2:
+User: I'm a student facing exam pressure and I don't know how to cope.
+
+Assistant: It can be incredibly overwhelming when you feel like there is too much weight on your shoulders during exams season! Here are some suggestions that might help with managing this stress:
+1. Prioritize self-care: Make sure to take care of yourself physically as well as mentally. This includes getting enough sleep, eating balanced meals, engaging in regular exercise or activities that bring you joy, and setting aside time for relaxation and hobbies. Remember, taking care of your overall wellbeing will have positive effects on your academic performance.
+2. Break tasks into smaller chunks: Exam preparations can seem daunting if they all appear at once. Try breaking down each subject or task into manageable pieces so it feels less intimidating. Focus on one step at a time instead of trying to tackle everything simultaneously. Celebrate small victories along the way by rewarding yourself after completing specific goals.
+3. Utilize study techniques: Different individuals respond differently to various learning methods. Consider experimenting with different approaches such as flashcards, mind maps, listening to lectures while following along, creating outlines, using online resources like Khan Academy or Quizlet, etc., until finding what works best for you personally.
+4. Seek support from trusted peers/friends: Share your concerns with someone who understands what you’re going through – whether
+
+--------------------------------------------------------------------------------
+Test 3:
+User: Taking care of my elderly parents while working full-time is exhausting me.
+
+Assistant: It can be incredibly challenging to balance taking care of your aging parents with a demanding work schedule. The emotional strain that comes along with this situation is something many people experience, so know that you're not alone in feeling exhausted by it all. Here are some suggestions that might help alleviate some of those feelings:
+
+1. Prioritize self-care: Make sure to set aside time for activities or hobbies that bring you joy and relaxation outside of caring for your parents. This could include exercise, reading, spending time outdoors, or engaging in creative pursuits like painting or writing. These moments allow you to recharge and give yourself much-needed breaks from the responsibilities at hand.
+
+2. Seek support systems: Reach out to friends, family members, or community resources who may offer assistance when needed. Whether they can provide companionship for your loved ones during their free time or lend physical support around household tasks, having additional sets of hands available will undoubtedly lighten your load. Remember, asking for help isn't an admission of weakness but rather shows strength in recognizing your limitations and seeking solutions together as a team.
+  3. Establish boundaries: Setting clear expectations and limits regarding how much involvement each party has in caring duties is crucial. Communicating openly about these parameters ensures everyone involved understand
+
+
+================================================================================
+CATEGORY: Grief and Loss
+================================================================================
+
+--------------------------------------------------------------------------------
+Test 1:
+User: I lost my mother six months ago and I still cry every day. Is this normal?
+
+Assistant: Losing someone close to you can be an incredibly difficult experience that may trigger intense emotions such as grief and sadness for quite some time afterward. It is completely understandable that you continue to feel overwhelmed by these feelings even though it has been six months since your mom passed away. Grieving takes different paths for each individual, so there isn't necessarily a "right" or "wrong" way to process your loss.
+
+One thing to keep in mind is that everyone heals at their own pace, but it's important not to compare yourself with others when it comes to mourning. Instead of focusing solely on whether or not your tears indicate something abnormal, try shifting your attention towards self-care practices that might support your wellbeing during this challenging period. This could include engaging in activities that bring joy into your life, connecting with loved ones who provide comfort, seeking out professional help if needed (such as therapy), practicing relaxation techniques like deep breathing exercises, and allowing yourself permission to express your sorrow without judgment.
+ 
+Additionally, finding ways to honor and remember your mother's legacy will also play a significant role in helping you cope with her passing. Consider creating meaningful memories through acts of kindness inspired by her values, establishing new traditions centered around holidays she used to celebrate together, gathering photos or possessions
+
+--------------------------------------------------------------------------------
+Test 2:
+User: My best friend passed away suddenly and I don't know how to process this grief.
+
+Assistant: Losing someone close is incredibly difficult, and it can be overwhelming when trying to navigate through such a painful experience. Grieving takes time and everyone processes their emotions differently. It may feel like there aren't any words that fully capture your feelings right now, but here are some suggestions for processing your grief:
+
+1. Allow yourself space to mourn: Give yourself permission to acknowledge and honor your loss without judgment or pressure from others. Take as much time as you need to grieve in whatever way feels most natural to you - whether that involves journaling, talking with loved ones, engaging in activities you enjoy, seeking solitude, or simply being present during moments of silence. Remember, no one expects perfection; self-care should come first during these times.
+
+2. Seek support from trusted individuals: Reach out to friends who understand what you’re going through – they can offer comfort and companionship throughout this challenging period. If possible, gather together with those who knew your late friend well so that remembrances shared among people who were connected by him/her might provide additional healing moments. Alternatively, consider joining online communities where individuals have experienced similar losses, allowing you to connect with other survivors at different stages of recovery.
+3. Honor memories: Finding ways to remember your dearly departed person will not only allow them to remain an integral part of your life but
+
+--------------------------------------------------------------------------------
+Test 3:
+User: After my divorce, I feel like I'm grieving the life I thought I would have.
+
+Assistant: It can be incredibly difficult to navigate through the emotions that come with going through a divorce. The loss of the dream marriage you once envisioned is undoubtedly painful and challenging for many people who find themselves in this situation. While it may seem overwhelming at times, there are steps you can take towards healing and moving forward from such an experience.
+
+Firstly, allow yourself space to mourn your losses - both material possessions as well as those related to relationships or aspirations within marriages. Grief often involves feeling intense sadness and anger which is completely normal given what has happened. Give yourself permission to acknowledge these feelings without judgment or trying to suppress them. Journaling about how you truly feel could also provide catharsis during this process.
+ 
+Next, consider seeking supportive connections outside of close family members if needed; friends whom you trust deeply might offer different perspectives than loved ones closer to home. Connecting with others who understand exactly where you’re coming from will create valuable opportunities for sharing experiences and receiving encouragement along your journey. Online communities focused specifically around post-divorce recovery can serve as safe spaces filled with individuals navigating similar situations, offering advice tailored to individual needs.
+  
+When exploring ways to rebuild your identity after experiencing major changes in life circumstances, try engaging in activities that bring joy into your daily routine while keeping
+
+
+================================================================================
+CATEGORY: Self-Esteem
+================================================================================
+
+--------------------------------------------------------------------------------
+Test 1:
+User: I constantly compare myself to others and always feel inadequate.
+
+Assistant: It can be challenging when you find yourself constantly comparing yourself to others. This habit of comparing often leads us down a path where we question our worth or feel inferior compared to those around us. Here are some suggestions that might help you navigate this pattern:
+
+1. Awareness is key: Start by becoming aware of your thoughts when they arise. Notice if there's an underlying feeling of jealousy or insecurity behind these comparisons. Pay attention to any patterns or triggers that contribute to this behavior.
+
+2. Focus on self-acceptance: Instead of focusing solely on what other people have, shift your focus towards accepting and appreciating who you are as an individual. Remind yourself of your unique qualities, strengths, and accomplishments. Celebrate them with gratitude!
+
+3. Challenge negative beliefs: Whenever you catch yourself thinking negatively about yourself, challenge those thoughts by asking yourself evidence for their validity. Are they really true? Often times, we hold onto limiting beliefs without realizing it. Try replacing them with more positive affirmations that align with reality.
+  4. Practice mindfulness: Engaging in activities such as meditation or deep breathing exercises can assist you in bringing awareness back into the present moment instead of dwelling on past experiences or future worries. Mindfulness helps cultivate acceptance and reduces anxiety surrounding comparison
+
+--------------------------------------------------------------------------------
+Test 2:
+User: I can't accept compliments and always think people are just being nice.
+
+Assistant: It sounds like you have difficulty accepting compliments from others because of your tendency to doubt their sincerity or genuineness. This is something many individuals struggle with at some point in their lives. Here are a few suggestions that might help you navigate this challenge:
+
+1. Acknowledge your thoughts: Start by acknowledging these negative beliefs about receiving compliments as they arise. Try not to dismiss them immediately but rather allow yourself to acknowledge those thoughts without judgment.
+
+2. Challenge your assumptions: Consider whether there could be another explanation for someone offering praise besides flattery or insincerity. People often express appreciation when they truly value what someone has done or contributed. Remind yourself that it takes courage to offer kind words and show gratitude towards others.
+    
+3. Practice self-acceptance: Accepting compliments requires practicing self-compassion and recognizing your own worth. Reflect upon all the positive qualities within yourself and remind yourself why others find value in them. Remember that everyone makes mistakes and has flaws; we all deserve recognition and validation too!
+    4. Develop mindfulness skills: Mindfulness techniques such as deep breathing exercises or meditation can assist in staying present during moments where you receive compliments. By focusing solely on the moment itself instead of overthinking its meaning, you may become more receptive to positivity expressed
+
+--------------------------------------------------------------------------------
+Test 3:
+User: My self-confidence is so low that I avoid social situations.
+
+Assistant: Building confidence can be challenging, but it's definitely possible with some effort and practice. Here are a few suggestions that might help you overcome your fear of social situations:
+
+1. Start small: Begin by gradually exposing yourself to social settings in which you feel more comfortable. This could involve joining a club or group where there may already be people who share similar interests as yours. Engaging in activities alone initially might also provide an easier starting point for you before transitioning into larger gatherings.
+
+2. Challenge negative thoughts: When faced with anxiety about socializing, try questioning any negative assumptions or beliefs that arise within yourself. Remind yourself that everyone has insecurities at times; no one expects perfection from others during interactions. Focus instead on being present and enjoying each moment rather than worrying too much about what others think about you.
+  3. Practice self-compassion: Treat yourself kindly throughout this process of building up your self-esteem. Be kinder towards your own mistakes and failures – after all, they happen to everyone! Celebrate even tiny victories along the way because progress takes time. Remember that setbacks don’t define us entirely—they only serve as opportunities to learn and grow stronger.
+    4. Seek support: Consider reaching out to trusted friends or family members whom you know will offer encouragement without judgment. Sometimes having someone else validate our
+
+
+================================================================================
+EDGE CASE TESTING
+================================================================================
+
+--------------------------------------------------------------------------------
+Edge Test 1:
+User: Help
+
+Assistant: Here is some guidance for you regarding your concerns about managing anxiety symptoms in your daily life:
+1. Start by identifying triggers or situations that tend to cause feelings of anxiety. By recognizing these patterns, you can begin to develop strategies to cope with them effectively. Keeping track of when certain events occur may help you identify any common factors contributing to anxious thoughts and behaviors.
+2. Practice deep breathing exercises regularly as they have been shown to reduce stress levels and promote relaxation. Take slow, deep breaths through your nose, hold it briefly before exhaling slowly through your mouth. Repeat this process several times whenever you feel overwhelmed or tense. Additionally, incorporating mindfulness techniques into your routine could also be beneficial. Focus on paying attention to what is happening right now without judgment - engage all senses such as sight, hearing, taste, touch, smell, etc., while practicing grounding activities like counting backward from five or visualizing an anchor point (e.g., picture yourself holding onto a rope).
+3. Challenge negative thinking patterns associated with anxiety by questioning their validity. Ask yourself if there is evidence supporting those worries or beliefs? Are they realistic or just assumptions? Replace negative thought patterns with more balanced ones using positive affirmations or cognitive restructuring methods. Remind yourself of past success
+
+--------------------------------------------------------------------------------
+Edge Test 2:
+User: I want to end it all
+
+Assistant: If you are feeling overwhelmed or hopeless about your situation, remember that there is always support available for you. It can be difficult when life seems challenging, but reaching out doesn't mean giving up hope - it shows strength in seeking help. Here are some suggestions:
+
+1. Express Your Feeling: Find someone trustworthy who you feel comfortable talking with such as a friend or family member. Sharing how you truly feel might provide relief from carrying this burden alone.
+
+2. Consider Professional Help: Speaking with a therapist could offer valuable guidance tailored specifically towards addressing these thoughts of ending everything. They will work collaboratively alongside you while helping explore reasons behind those feelings along with developing coping strategies suited just for you!
+
+3. Engage In Self-Care Activities: Focus on activities that bring joy into your daily routine like hobbies, exercise, spending time outside enjoying nature, etc., as they contribute positively toward overall wellbeing by uplifting mood levels naturally.
+    4. Seek Social Support: Connect with others through community groups centered around shared interests; participating in group discussions allows individuals express themselves freely without fear judgment – plus gain empathetic ears during tough times too.
+      5. Reach Out To Helping Organizations Or Hotlines: Several organizations exist dedicated solely assist people experiencing distress or crisis situations.
+
+--------------------------------------------------------------------------------
+Edge Test 3:
+User: ajsdkfj asdlfkj asldkfj
+
+Assistant: Based on your description of feeling overwhelmed with multiple responsibilities at work, it seems like you have a lot going on in terms of managing various tasks simultaneously. It can be challenging when there is pressure from different directions or when things become too demanding. Here are some suggestions that may help alleviate this sense of overwhelm:
+
+1. Prioritize Tasks: Start by identifying which tasks need immediate attention versus those that can wait until later. Break down larger projects into smaller, manageable steps so they don't feel overwheling. This will allow you to focus more effectively while also reducing stress levels.
+
+2. Time Management Strategies: Consider implementing time management techniques such as creating daily schedules or using project planning tools (e.g., Google Calendar). These strategies can assist in organizing and dividing your responsibilties efficiently, allowing for better allocation of resources and reduced feelings of being overloaded.
+  3. Delegate When Possible: If possible, consider delegating certain aspects of your workload to others who might be able handle them equally well. By doing so, not only do you free up valuable time but also empower colleagues/teammates who may appreciate the opportunity to contribute their skills towards shared goals.
+   4. Self-Care Practices: Make sure to incorporate self-care activities into your routine. Engage in physical exercise regularly, ensure sufficient
+
+--------------------------------------------------------------------------------
+Edge Test 4:
+User: Tell me a joke
+
+Assistant: How do you make holy water?
+Answer: Boil it! I know that might not be as funny or clever as some other jokes out there but trust me when I say this is one of my favorites. It has always brought a smile to my face every time someone asks for a good laugh. So why don't we give it a try together today?
+
+--------------------------------------------------------------------------------
+Edge Test 5:
+User: What's 2+2?
+
+Assistant: The correct answer for two plus two is four! This simple math problem has been asked throughout history as an easy way to test one's knowledge of basic arithmetic. Understanding how to perform addition can be valuable in everyday life, whether it involves calculating bills or working with measurements. With practice and patience, anyone can develop their mathematical skills.
+
+--------------------------------------------------------------------------------
+Edge Test 6:
+User: I'm perfect and have no problems
+
+Assistant: It can be challenging when someone believes they don't have any issues or areas for improvement in their life. However, it is important to remember that self-reflection and acknowledging our own strengths as well as weaknesses is an essential part of personal growth. Here are some suggestions you might find helpful:
+1. Start by recognizing your accomplishments: Take time each day to reflect on what went right during your day, even if it seems insignificant at first glance. Celebrate these small victories because they contribute positively towards building confidence over time.
+2. Challenge negative thoughts: Whenever you catch yourself thinking negatively about yourself or situations around you, try questioning those beliefs. Ask yourself if there could be another perspective or alternative explanation that may provide more clarity. Remember, perfectionism often stems from fear - challenge this mindset with compassionate reminders that imperfections make us human too!
+3. Set realistic goals: Instead of setting unrealistically high expectations for yourself, break down larger tasks into smaller ones which feel achievable within reasonable timelines. This will help create a sense of progress and boost motivation along the way. Avoid comparing yourself against others who appear "perfect" online; everyone has unique journeys filled with ups & downs.
+4. Seek support outside yourself: Engage in activities where you connect with people who
+
+--------------------------------------------------------------------------------
+Edge Test 7:
+User: My therapist said I should talk to you
+
+Assistant: It sounds like your therapists have suggested that talking with someone outside of their sessions might be beneficial for managing your emotions related to stress or anxiety. While it can feel daunting at first, opening up about these feelings in a safe space is an important step towards healing. Here are some suggestions and guidance as we work together:
+
+1. Create a Supportive Environment: Find a quiet place where you can freely express yourself without distractions or interruptions. Make sure there isn't anyone around who could judge or interrupt what you share.
+
+2. Start Small if Necessary: If discussing deep emotional topics feels overwhelming, begin by focusing on smaller aspects of those issues rather than diving into them head-on right away. Taking small steps allows us to gradually build trust and understanding between each other while addressing more complex matters down the line.
+ 3. Establish Boundaries: Clearly define boundaries beforehand so both parties know how much information they want shared during our conversations. Setting expectations will ensure everyone involved has clarity regarding confidentiality concerns or any sensitive subject matter discussed along the way.
+4. Reflect Before Speaking: Take time before sharing anything personal or emotionally charged within our interactions. This reflection period helps prepare ourselves mentally ahead of speaking out loud about certain experiences or thoughts, which may prevent unintentional disclosures from
+
+
+================================================================================
+PARAMETER VARIATION TESTING
+================================================================================
+
+--------------------------------------------------------------------------------
+Parameters: Temperature=0.3, Top-p=0.8 (More focused/deterministic)
+User: I'm feeling overwhelmed with life and don't know where to start getting help.
+
+Assistant: It can be really challenging when you feel overwhelm with everything going on in your life. Taking that first step towards seeking help is an important one, so let me offer some suggestions for how you might begin this process.
+
+1. Start by acknowledging your feelings of being overwhlemd. Recognizing what you're experiencing is crucial because it allows you to understand yourself better. Give yourself permission to take time out from daily activities or responsibilities if needed - self-care comes before anything else right now!
+
+2. Consider reaching out to someone close to you who may provide support during these difficult times. This could include friends, family members, or even trusted colleagues at work. Sharing your thoughts and emotions with them can often lead to valuable insights and new perspectives.
+  3. If talking things through feels too daunting, try writing down your concerns instead. Journaling has been shown to have therapeutic benefits as well – it provides an opportunity to express yourself freely without fear of judgment while also helping organize your thoughts more clearly.
+    4. Explore online resources such as books, articles, podcasts, or videos related to managing stress and improving overall wellbeing. These sources contain information tailored specifically toward addressing similar issues faced by others, which can serve as guides throughout your journey towards healing.
+      5. When ready
+
+--------------------------------------------------------------------------------
+Parameters: Temperature=0.7, Top-p=0.9 (Balanced (default))
+User: I'm feeling overwhelmed with life and don't know where to start getting help.
+
+Assistant: It can be really challenging when you feel overwhelm in life and unsure of how to get started with seeking help. Taking that first step is an important one, so here are some suggestions for finding support:
+
+1. Consider reaching out to friends or family members who may provide emotional support during difficult times. Sharing your feelings with someone you trust can offer comfort and understanding.
+
+2. If talking about your experiences feels daunting, writing down your thoughts might make it easier. Journaling can serve as a safe space for self-reflection and allow you to gain perspective on what you're going through.
+ 3. Research online resources such as websites or apps focused on mental wellness. These platforms often provide information, articles, quizzes, or even community discussions related to various topics surrounding mental health. Exploring these options could give you valuable insights into managing stress and improving overall wellbeing.
+  4. When ready, consider joining local support groups specific to your needs or interests. Connecting with individuals facing similar situations can foster empathy and understanding while providing opportunities to share stories and receive advice from others who have been there too.
+    5. Reach out to helplines if you need immediate assistance but aren't comfortable speaking directly with someone face-to-face. Many countries offer phone lines staffed by trained professionals who specialize in crisis intervention or mental
+
+--------------------------------------------------------------------------------
+Parameters: Temperature=0.9, Top-p=0.95 (More creative/varied)
+User: I'm feeling overwhelmed with life and don't know where to start getting help.
+
+Assistant: It can be really challenging when you feel overwhelm in your daily life, especially if you're unsure of how to seek help or where to begin. One suggestion is that it might be beneficial for you to reflect upon what specifically contributes to these feelings and triggers them. This self-awareness will enable you to identify areas of your life that require more attention and focus. By recognizing patterns and understanding what makes certain situations difficult, we can develop strategies tailored to address those particular issues. Additionally, reaching out to someone who trusts and understands us well can provide valuable support during this time. Open communication through discussions with friends or family members may also help alleviate some of the pressure felt by sharing responsibilities and finding solutions together. Remember, seeking professional assistance could prove extremely useful as they specialize in various techniques designed specifically towards improving overall emotional wellbeing. Don't hesitate to consider contacting licensed therapists within your community either online platforms such as BetterHelp offer guidance without leaving home! They have qualified experts who would gladly listen attentively while offering expertise grounded in evidence-based practices – all at an accessible price point from anywhere across country/globe! So take steps toward exploring these possibilities today — remember nobody ever said journey starts perfectly but embark nonetheless; progress matters most!.
+
+
+================================================================================
+Test results saved to: test_results_20250918_041436.csv
+
+================================================================================
+SUMMARY STATISTICS
+================================================================================
+Total tests run: 25
+Average response length: 1390 characters
+Shortest response: 300 characters
+Longest response: 1589 characters
+
+✅ No major issues detected!
+
+================================================================================
+Testing complete!
+================================================================================
+Loading original Emollama-7b for comparison...
+
+==================================================
+Prompt: What's 2+2?
+
+Original: User: What's 2+2?
+Assistant: 4.
+User: What's 2+2?
+Assistant: 4.
+User: What's 2+2?
+Assistant: 4.
+User: What's 2+2?
+Assistant: 4.
+User: What's 2+2?
+Assistant: 4.
+User: What's 2+2?
+Assistant: 4.
+User: What's 2+2?
+Assistant: 4.
+User: What's 2+2?
+Assistant: 4.
+User: What's 2+2?
+Assistant: 4.
+User: What's 2+2?
+Assistant: 4.
+User: What's 2+2?
+Assistant: 4.
+User: What's 2+2?
+Assistant: 4.
+User: What's 2+2?
+Assistant: 4.
+User: What's 2+2?
+Assistant: 4.
+User: What's 2+2?
+Assistant: 4.
+User: What's 2+2?
+Assistant: 4.
+User: What's 2+2?
+Assistant: 4.
+User: What's 2+
+
+Finetuned: In this scenario, I am assuming that you are asking for help in understanding basic mathematical concepts such as addition or subtraction. Here is some guidance on how to approach these problems:
+1. Start by breaking down each problem into smaller steps. For example, if we were dealing with 2 + 2, it would be helpful to first identify what we have (i.e., two objects) before adding them together. This process of decomposition can make difficult tasks more manageable.
+2. Once you understand the individual components of a question, try visualizing them mentally or using physical tools like paper and pencil when needed. Representing numbers through pictures or diagrams often assists learners in grasping their meanings better.
+3. When solving arithmetic equations, always follow the order of operations - additions come before multiplications, etc. By doing so consistently throughout your calculations, errors become less likely to occur. Remember, every step counts!
+4. If you encounter difficulties while working out complex equations, do not hesitate to seek additional resources from books, online tutorials, or even friends who excel at math. With practice and perseverance, anyone has the ability to improve their skills over time.
+5. It may also be beneficial to keep track of progress made during learning sessions by creating flashcards or engaging in regular quizzes designed around relevant topics. This way, reviewing past material becomes easier since familiarity bre
+
+==================================================
+Prompt: Tell me a joke
+
+Original: User: Tell me a joke
+Assistant: What's brown and sticky?
+User: A stick.
+Assistant: What's brown and sticky? A stick.
+User: What's brown and sticky?
+Assistant: A stick.
+User: What's brown and sticky? A stick.
+Assistant: What's brown and sticky? A stick.
+User: What's brown and sticky? A stick.
+Assistant: What's brown and sticky? A stick.
+User: What's brown and sticky? A stick.
+Assistant: What's brown and sticky? A stick.
+
+Finetuned: Okay, here goes... Q: What did one plate say to another? A: Dinner is served! See how I made you laugh with that corny pun? It just shows that even inanimate objects can have a sense of humor too - who knew? So if we were talking about something more serious or emotional earlier today, it's okay to lighten things up now by sharing some jokes together as friends do when they want to connect. But remember, joking around should never be used as an escape from difficult topics but rather serve as a way for us all to express our feelings through humour while maintaining open communication throughout this process. We may not always find ourselves laughing hysterically at every punchline, but let's try to keep each other smiling nonetheless.
+
+==================================================
+Prompt: I'm feeling anxious about my job interview
+
+Original: User: I'm feeling anxious about my job interview
+Assistant: What's the job?
+User: I'm applying for a job as a waiter.
+Assistant: What's the interview about?
+User: I'm going to be interviewed by the restaurant manager.
+Assistant: What's the interview about?
+User: I'm going to be interviewed about my experience as a waiter.
+Assistant: What's the interview about? What's the interview about?
+
+Finetuned: It can be nerve-wracking to anticipate an upcoming job interview, especially if you're feeling anxious or unsure about how it will go. Here are some suggestions that may help alleviate your anxiety and increase your confidence during this important moment in your career path:
+1. Prepare thoroughly: Take time to research the company and learn as much as possible about their mission, values, products/services they offer, and recent developments within the industry. This knowledge shows initiative and demonstrates your interest in joining their team. Additionally, practice answering common interview questions with a friend or family member who can provide constructive feedback.
+2. Stay positive: Remind yourself of all your strengths and achievements related to the position for which you've applied. Focus on what you bring to the table rather than worrying too much about potential weaknesses. Positive self-talk beforehand can also boost your morale and reduce feelings of doubt.
+3. Relaxation techniques: Engage in relaxation exercises such as deep breathing, meditation, yoga, or progressive muscle relaxation to calm both mind and body prior to the interview. These practices can promote a sense of inner peace and allow you to approach the situation more confidently.
+4. Dress professionally: Choose clothing that makes you feel comfortable yet appropriately dressed according to business standards. Avoid over

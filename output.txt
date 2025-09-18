@@ -1,37 +1,190 @@
-Training samples: 12845
-Evaluation samples: 3212
+Training samples: 7797
+Evaluation samples: 1950
 trainable params: 16,777,216 || all params: 6,755,192,832 || trainable%: 0.24836028248556738
-Resuming training from checkpoint: ./emollama-mental-health-finetuned/checkpoint-2400
-{'train_runtime': 35.6177, 'train_samples_per_second': 1081.907, 'train_steps_per_second': 67.635, 'train_loss': 0.0023348134501240667, 'epoch': 3.0}
+Starting training from scratch...
+{'loss': 1.0309, 'learning_rate': 5e-06, 'epoch': 0.02}
+{'loss': 1.0044, 'learning_rate': 1e-05, 'epoch': 0.04}
+{'loss': 1.0071, 'learning_rate': 1.5e-05, 'epoch': 0.06}
+{'loss': 0.9656, 'learning_rate': 2e-05, 'epoch': 0.08}
+{'loss': 0.9079, 'learning_rate': 2.5e-05, 'epoch': 0.1}
+{'loss': 0.8868, 'learning_rate': 3e-05, 'epoch': 0.12}
+{'loss': 0.8472, 'learning_rate': 3.5e-05, 'epoch': 0.14}
+{'loss': 0.8247, 'learning_rate': 4e-05, 'epoch': 0.16}
+{'loss': 0.8121, 'learning_rate': 4.5e-05, 'epoch': 0.18}
+{'loss': 0.8109, 'learning_rate': 5e-05, 'epoch': 0.21}
+{'loss': 0.7884, 'learning_rate': 4.963262307127113e-05, 'epoch': 0.23}
+{'loss': 0.7662, 'learning_rate': 4.926524614254225e-05, 'epoch': 0.25}
+{'loss': 0.7448, 'learning_rate': 4.8897869213813376e-05, 'epoch': 0.27}
+{'loss': 0.7682, 'learning_rate': 4.85304922850845e-05, 'epoch': 0.29}
+{'loss': 0.7753, 'learning_rate': 4.8163115356355625e-05, 'epoch': 0.31}
+{'loss': 0.757, 'learning_rate': 4.779573842762674e-05, 'epoch': 0.33}
+{'loss': 0.7308, 'learning_rate': 4.7428361498897874e-05, 'epoch': 0.35}
+{'loss': 0.7661, 'learning_rate': 4.7060984570169e-05, 'epoch': 0.37}
+{'loss': 0.7505, 'learning_rate': 4.6693607641440116e-05, 'epoch': 0.39}
+{'loss': 0.7435, 'learning_rate': 4.632623071271124e-05, 'epoch': 0.41}
+{'eval_loss': 0.7411623597145081, 'eval_runtime': 154.1104, 'eval_samples_per_second': 12.653, 'eval_steps_per_second': 1.583, 'epoch': 0.41}
+{'loss': 0.7443, 'learning_rate': 4.595885378398237e-05, 'epoch': 0.43}
+{'loss': 0.7279, 'learning_rate': 4.559147685525349e-05, 'epoch': 0.45}
+{'loss': 0.7287, 'learning_rate': 4.5224099926524614e-05, 'epoch': 0.47}
+{'loss': 0.7496, 'learning_rate': 4.485672299779574e-05, 'epoch': 0.49}
+{'loss': 0.752, 'learning_rate': 4.448934606906687e-05, 'epoch': 0.51}
+{'loss': 0.7273, 'learning_rate': 4.412196914033799e-05, 'epoch': 0.53}
+{'loss': 0.7306, 'learning_rate': 4.375459221160911e-05, 'epoch': 0.55}
+{'loss': 0.7133, 'learning_rate': 4.338721528288024e-05, 'epoch': 0.57}
+{'loss': 0.7292, 'learning_rate': 4.301983835415136e-05, 'epoch': 0.59}
+{'loss': 0.7236, 'learning_rate': 4.2652461425422486e-05, 'epoch': 0.62}
+{'loss': 0.7155, 'learning_rate': 4.228508449669361e-05, 'epoch': 0.64}
+{'loss': 0.7022, 'learning_rate': 4.191770756796473e-05, 'epoch': 0.66}
+{'loss': 0.7381, 'learning_rate': 4.155033063923586e-05, 'epoch': 0.68}
+{'loss': 0.6903, 'learning_rate': 4.1182953710506984e-05, 'epoch': 0.7}
+{'loss': 0.7271, 'learning_rate': 4.081557678177811e-05, 'epoch': 0.72}
+{'loss': 0.7195, 'learning_rate': 4.0448199853049226e-05, 'epoch': 0.74}
+{'loss': 0.7008, 'learning_rate': 4.008082292432036e-05, 'epoch': 0.76}
+{'loss': 0.6988, 'learning_rate': 3.971344599559148e-05, 'epoch': 0.78}
+{'loss': 0.7056, 'learning_rate': 3.93460690668626e-05, 'epoch': 0.8}
+{'loss': 0.7068, 'learning_rate': 3.8978692138133725e-05, 'epoch': 0.82}
+{'eval_loss': 0.7075240612030029, 'eval_runtime': 151.7852, 'eval_samples_per_second': 12.847, 'eval_steps_per_second': 1.608, 'epoch': 0.82}
+{'loss': 0.732, 'learning_rate': 3.861131520940485e-05, 'epoch': 0.84}
+{'loss': 0.6884, 'learning_rate': 3.8243938280675974e-05, 'epoch': 0.86}
+{'loss': 0.7081, 'learning_rate': 3.78765613519471e-05, 'epoch': 0.88}
+{'loss': 0.6741, 'learning_rate': 3.750918442321822e-05, 'epoch': 0.9}
+{'loss': 0.6792, 'learning_rate': 3.714180749448935e-05, 'epoch': 0.92}
+{'loss': 0.6903, 'learning_rate': 3.677443056576047e-05, 'epoch': 0.94}
+{'loss': 0.6966, 'learning_rate': 3.6407053637031596e-05, 'epoch': 0.96}
+{'loss': 0.7284, 'learning_rate': 3.603967670830272e-05, 'epoch': 0.98}
+{'loss': 0.6657, 'learning_rate': 3.5672299779573845e-05, 'epoch': 1.01}
+{'loss': 0.6969, 'learning_rate': 3.530492285084497e-05, 'epoch': 1.03}
+{'loss': 0.6803, 'learning_rate': 3.4937545922116094e-05, 'epoch': 1.05}
+{'loss': 0.6764, 'learning_rate': 3.457016899338722e-05, 'epoch': 1.07}
+{'loss': 0.6842, 'learning_rate': 3.4202792064658337e-05, 'epoch': 1.09}
+{'loss': 0.6966, 'learning_rate': 3.383541513592947e-05, 'epoch': 1.11}
+{'loss': 0.6625, 'learning_rate': 3.346803820720059e-05, 'epoch': 1.13}
+{'loss': 0.6767, 'learning_rate': 3.310066127847171e-05, 'epoch': 1.15}
+{'loss': 0.6668, 'learning_rate': 3.2733284349742835e-05, 'epoch': 1.17}
+{'loss': 0.6891, 'learning_rate': 3.2365907421013966e-05, 'epoch': 1.19}
+{'loss': 0.7015, 'learning_rate': 3.1998530492285084e-05, 'epoch': 1.21}
+{'loss': 0.6798, 'learning_rate': 3.163115356355621e-05, 'epoch': 1.23}
+{'eval_loss': 0.6916276812553406, 'eval_runtime': 151.8797, 'eval_samples_per_second': 12.839, 'eval_steps_per_second': 1.607, 'epoch': 1.23}
+{'loss': 0.6882, 'learning_rate': 3.126377663482733e-05, 'epoch': 1.25}
+{'loss': 0.6635, 'learning_rate': 3.0896399706098464e-05, 'epoch': 1.27}
+{'loss': 0.6897, 'learning_rate': 3.052902277736958e-05, 'epoch': 1.29}
+{'loss': 0.6602, 'learning_rate': 3.0161645848640706e-05, 'epoch': 1.31}
+{'loss': 0.6907, 'learning_rate': 2.9794268919911834e-05, 'epoch': 1.33}
+{'loss': 0.668, 'learning_rate': 2.9426891991182952e-05, 'epoch': 1.35}
+{'loss': 0.6699, 'learning_rate': 2.905951506245408e-05, 'epoch': 1.37}
+{'loss': 0.6692, 'learning_rate': 2.8692138133725204e-05, 'epoch': 1.39}
+{'loss': 0.669, 'learning_rate': 2.8324761204996326e-05, 'epoch': 1.42}
+{'loss': 0.6675, 'learning_rate': 2.795738427626745e-05, 'epoch': 1.44}
+{'loss': 0.6733, 'learning_rate': 2.7590007347538578e-05, 'epoch': 1.46}
+{'loss': 0.6676, 'learning_rate': 2.7222630418809703e-05, 'epoch': 1.48}
+{'loss': 0.6469, 'learning_rate': 2.6855253490080824e-05, 'epoch': 1.5}
+{'loss': 0.6522, 'learning_rate': 2.6487876561351948e-05, 'epoch': 1.52}
+{'loss': 0.6573, 'learning_rate': 2.6120499632623073e-05, 'epoch': 1.54}
+{'loss': 0.6417, 'learning_rate': 2.5753122703894194e-05, 'epoch': 1.56}
+{'loss': 0.6795, 'learning_rate': 2.5385745775165322e-05, 'epoch': 1.58}
+{'loss': 0.655, 'learning_rate': 2.5018368846436446e-05, 'epoch': 1.6}
+{'loss': 0.6799, 'learning_rate': 2.465099191770757e-05, 'epoch': 1.62}
+{'loss': 0.6454, 'learning_rate': 2.4283614988978692e-05, 'epoch': 1.64}
+{'eval_loss': 0.6807847023010254, 'eval_runtime': 151.7609, 'eval_samples_per_second': 12.849, 'eval_steps_per_second': 1.608, 'epoch': 1.64}
+{'loss': 0.6753, 'learning_rate': 2.3916238060249817e-05, 'epoch': 1.66}
+{'loss': 0.6567, 'learning_rate': 2.354886113152094e-05, 'epoch': 1.68}
+{'loss': 0.671, 'learning_rate': 2.3181484202792066e-05, 'epoch': 1.7}
+{'loss': 0.6615, 'learning_rate': 2.281410727406319e-05, 'epoch': 1.72}
+{'loss': 0.6665, 'learning_rate': 2.2446730345334315e-05, 'epoch': 1.74}
+{'loss': 0.6809, 'learning_rate': 2.207935341660544e-05, 'epoch': 1.76}
+{'loss': 0.6646, 'learning_rate': 2.171197648787656e-05, 'epoch': 1.78}
+{'loss': 0.6661, 'learning_rate': 2.1344599559147688e-05, 'epoch': 1.81}
+{'loss': 0.6402, 'learning_rate': 2.097722263041881e-05, 'epoch': 1.83}
+{'loss': 0.6881, 'learning_rate': 2.0609845701689934e-05, 'epoch': 1.85}
+{'loss': 0.6659, 'learning_rate': 2.024246877296106e-05, 'epoch': 1.87}
+{'loss': 0.6585, 'learning_rate': 1.9875091844232183e-05, 'epoch': 1.89}
+{'loss': 0.6572, 'learning_rate': 1.9507714915503307e-05, 'epoch': 1.91}
+{'loss': 0.6474, 'learning_rate': 1.9140337986774432e-05, 'epoch': 1.93}
+{'loss': 0.6559, 'learning_rate': 1.8772961058045553e-05, 'epoch': 1.95}
+{'loss': 0.6395, 'learning_rate': 1.840558412931668e-05, 'epoch': 1.97}
+{'loss': 0.6708, 'learning_rate': 1.8038207200587802e-05, 'epoch': 1.99}
+{'loss': 0.6512, 'learning_rate': 1.767083027185893e-05, 'epoch': 2.01}
+{'loss': 0.6553, 'learning_rate': 1.730345334313005e-05, 'epoch': 2.03}
+{'loss': 0.642, 'learning_rate': 1.6936076414401176e-05, 'epoch': 2.05}
+{'eval_loss': 0.673743486404419, 'eval_runtime': 151.8033, 'eval_samples_per_second': 12.846, 'eval_steps_per_second': 1.607, 'epoch': 2.05}
+{'loss': 0.6234, 'learning_rate': 1.65686994856723e-05, 'epoch': 2.07}
+{'loss': 0.6281, 'learning_rate': 1.6201322556943425e-05, 'epoch': 2.09}
+{'loss': 0.6354, 'learning_rate': 1.583394562821455e-05, 'epoch': 2.11}
+{'loss': 0.66, 'learning_rate': 1.5466568699485674e-05, 'epoch': 2.13}
+{'loss': 0.6276, 'learning_rate': 1.5099191770756797e-05, 'epoch': 2.15}
+{'loss': 0.6394, 'learning_rate': 1.4731814842027921e-05, 'epoch': 2.17}
+{'loss': 0.6477, 'learning_rate': 1.4364437913299044e-05, 'epoch': 2.19}
+{'loss': 0.6238, 'learning_rate': 1.399706098457017e-05, 'epoch': 2.22}
+{'loss': 0.6502, 'learning_rate': 1.3629684055841293e-05, 'epoch': 2.24}
+{'loss': 0.6526, 'learning_rate': 1.3262307127112416e-05, 'epoch': 2.26}
+{'loss': 0.653, 'learning_rate': 1.2894930198383542e-05, 'epoch': 2.28}
+{'loss': 0.6662, 'learning_rate': 1.2527553269654665e-05, 'epoch': 2.3}
+{'loss': 0.634, 'learning_rate': 1.216017634092579e-05, 'epoch': 2.32}
+{'loss': 0.6484, 'learning_rate': 1.1792799412196914e-05, 'epoch': 2.34}
+{'loss': 0.6262, 'learning_rate': 1.1425422483468038e-05, 'epoch': 2.36}
+{'loss': 0.6503, 'learning_rate': 1.1058045554739163e-05, 'epoch': 2.38}
+{'loss': 0.6486, 'learning_rate': 1.0690668626010288e-05, 'epoch': 2.4}
+{'loss': 0.6576, 'learning_rate': 1.032329169728141e-05, 'epoch': 2.42}
+{'loss': 0.6335, 'learning_rate': 9.955914768552535e-06, 'epoch': 2.44}
+{'loss': 0.6209, 'learning_rate': 9.58853783982366e-06, 'epoch': 2.46}
+{'eval_loss': 0.6689437031745911, 'eval_runtime': 151.7991, 'eval_samples_per_second': 12.846, 'eval_steps_per_second': 1.607, 'epoch': 2.46}
+{'loss': 0.6546, 'learning_rate': 9.221160911094784e-06, 'epoch': 2.48}
+{'loss': 0.6363, 'learning_rate': 8.853783982365908e-06, 'epoch': 2.5}
+{'loss': 0.6428, 'learning_rate': 8.486407053637031e-06, 'epoch': 2.52}
+{'loss': 0.6198, 'learning_rate': 8.119030124908156e-06, 'epoch': 2.54}
+{'loss': 0.6393, 'learning_rate': 7.75165319617928e-06, 'epoch': 2.56}
+{'loss': 0.66, 'learning_rate': 7.384276267450405e-06, 'epoch': 2.58}
+{'loss': 0.6308, 'learning_rate': 7.016899338721529e-06, 'epoch': 2.61}
+{'loss': 0.6526, 'learning_rate': 6.649522409992653e-06, 'epoch': 2.63}
+{'loss': 0.6452, 'learning_rate': 6.282145481263777e-06, 'epoch': 2.65}
+{'loss': 0.6324, 'learning_rate': 5.914768552534901e-06, 'epoch': 2.67}
+{'loss': 0.6387, 'learning_rate': 5.547391623806025e-06, 'epoch': 2.69}
+{'loss': 0.6415, 'learning_rate': 5.1800146950771495e-06, 'epoch': 2.71}
+{'loss': 0.6359, 'learning_rate': 4.812637766348273e-06, 'epoch': 2.73}
+{'loss': 0.6364, 'learning_rate': 4.445260837619398e-06, 'epoch': 2.75}
+{'loss': 0.6252, 'learning_rate': 4.077883908890521e-06, 'epoch': 2.77}
+{'loss': 0.6413, 'learning_rate': 3.710506980161646e-06, 'epoch': 2.79}
+{'loss': 0.6286, 'learning_rate': 3.3431300514327704e-06, 'epoch': 2.81}
+{'loss': 0.6506, 'learning_rate': 2.9757531227038945e-06, 'epoch': 2.83}
+{'loss': 0.6252, 'learning_rate': 2.6083761939750186e-06, 'epoch': 2.85}
+{'loss': 0.6312, 'learning_rate': 2.2409992652461427e-06, 'epoch': 2.87}
+{'eval_loss': 0.6664717197418213, 'eval_runtime': 151.7521, 'eval_samples_per_second': 12.85, 'eval_steps_per_second': 1.608, 'epoch': 2.87}
+{'loss': 0.6515, 'learning_rate': 1.8736223365172668e-06, 'epoch': 2.89}
+{'loss': 0.649, 'learning_rate': 1.5062454077883909e-06, 'epoch': 2.91}
+{'loss': 0.6517, 'learning_rate': 1.1388684790595152e-06, 'epoch': 2.93}
+{'loss': 0.6496, 'learning_rate': 7.714915503306393e-07, 'epoch': 2.95}
+{'loss': 0.6447, 'learning_rate': 4.0411462160176346e-07, 'epoch': 2.97}
+{'loss': 0.6502, 'learning_rate': 3.6737692872887585e-08, 'epoch': 2.99}
+{'train_runtime': 6900.9485, 'train_samples_per_second': 3.39, 'train_steps_per_second': 0.212, 'train_loss': 0.691298491329791, 'epoch': 3.0}
 
-Saving final model to emollama-mental-health-lora_20250914_230455
+Saving final model to emollama-mental-health-lora_20250918_031108
 
 Running evaluation...
 
 Evaluation Results:
-Perplexity: 1.88
-Eval Loss: 0.6333
+Perplexity: 1.95
+Eval Loss: 0.6689
 
 Generating sample predictions...
 
 Sample Predictions:
 
 Example 1:
-Input: I agree. I've learned to cope with these feelings better than I used to. I used to completely shut d...
-Generated: It sounds like you have made significant progress since our last session. Your ability to recognize ...
-Actual: I see. It sounds like you've had a lot of experience with loss and the fear of the unknown. Your fam...
+Input: I've been questioning my own sexuality lately, and it's causing a lot of confusion and anxiety. I've...
+Generated: Exploring your sexual orientation is an important journey that takes time and self-reflection. It so...
+Actual: It's great that you're reaching out and seeking support as you navigate your feelings about your sex...
 --------------------------------------------------------------------------------
 
 Example 2:
-Input: I've been struggling with anxiety for quite some time now, and I hope that through counseling sessio...
-Generated: It sounds like you have been experiencing significant challenges due to your anxiety, and it is comm...
-Actual: It's great that you're seeking counseling to help with your anxiety. Counseling can be a valuable to...
+Input: The demands of my job have become overwhelming, with long hours, constant deadlines, and high expect...
+Generated: It can be incredibly challenging when our jobs start to feel overwhelm us with long work hours, stri...
+Actual: It sounds like you're dealing with a lot of pressure and stress in your job, which is impacting both...
 --------------------------------------------------------------------------------
 
 Example 3:
-Input: When it comes to intimacy, I struggle with setting boundaries. I often find myself sacrificing my ow...
-Generated: Setting boundaries is an important aspect of maintaining healthy relationships. It can be challengin...
-Actual: I can understand how challenging it must be for you to struggle with setting boundaries in your inti...
+Input: Being a full-time caregiver for my elderly parent has taken both an emotional and physical toll on m...
+Generated: It can be incredibly challenging to balance being a full time caregivers for your aging parents whil...
+Actual: Caring for an elderly parent full-time can indeed be emotionally and physically demanding. It's unde...
 --------------------------------------------------------------------------------
 
 Evaluation complete. Results saved to evaluation_results.txt

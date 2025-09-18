@@ -1,2 +1,2 @@
-Perplexity: 1.88
-Eval Loss: 0.6333
+Perplexity: 1.95
+Eval Loss: 0.6689

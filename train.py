@@ -16,11 +16,9 @@ import os
 from datetime import datetime
 
 # Load and combine data
-data1 = pd.read_csv("Interview_Data_6K.csv")
-data2 = pd.read_csv("Synthetic_Data_10K.csv")
-combined_df = pd.concat([data1, data2], axis=0, ignore_index=True)
+combined_df = pd.read_csv("Synthetic_Data_10K.csv")
 
-# Remove null values
+# Drop rows with null inputs
 combined_df = combined_df.dropna(subset=['input'])
 
 # Store the common instruction
